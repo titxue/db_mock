@@ -1,0 +1,36 @@
+{
+    "ali_express_category": [
+        {
+            "id": 1,
+            "name": "母婴",
+            "created_at": "2023-10-01T12:00:00Z",
+            "updated_at": "2023-10-01T12:00:00Z",
+            "uuid": "d4113193-7281-480a-99e0-4afe085365f8",
+            "electronic_links": [
+                {
+                    "aliexpress_product_id": "1005007310387192"
+                }
+            ],
+            "general_links": [
+                {
+                    "aliexpress_product_id": "1005005667006237"
+                },
+                {
+                    "aliexpress_product_id": "1005007310387192"
+                }
+            ],
+            "liquid_links": [
+                {
+                    "aliexpress_product_id": "1005005737470392"
+                },
+                {
+                    "aliexpress_product_id": "1005007310387192"
+                }
+            ],
+            "meta_data": {}
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
